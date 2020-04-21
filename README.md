@@ -20,7 +20,7 @@ Lix has almost no over-head, and is exponentially lighter to run than a full Lin
 Lix is completely free to use, both free in monetary terms, as well as free as in freedom. Anyone is free to take a look at the code, and make any changes they want!
 
 ### Command Line
-Lix isn't a third party program that runs in it's own app. Lix runs right in the command line, so the experience is nearly identitical to running full Linux.he "Round" button in the top corner!
+Lix isn't a third party program that runs in it's own app. Lix runs right in the command line, so the experience is nearly identical to running full Linux!
 
 ### Appropriate Placeholders
 Some commands, like 'shutdown', require a multithreaded process to complete. Since Lix is single threaded appropriate measures have been put in place to make sure commands like this fail in a descriptive way, that make it clear that a command like this would work in real Linux.
