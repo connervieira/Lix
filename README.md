@@ -2,9 +2,7 @@
 A Linux simulator for beginners to learn the basics of the command line without the overhead and complexity of a full OS
 ![Lix Logo](https://v0lttech.com/assets/img/lixlogo.png)
 
-## Binaries
-Work in progress
-(macOS builds are planned)
+**Project is on hold**
 
 ## Features
 ### Realistic Commands
